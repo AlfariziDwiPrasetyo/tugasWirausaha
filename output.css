@@ -547,6 +547,10 @@ video {
   }
 }
 
+.m-auto {
+  margin: auto;
+}
+
 .mx-0 {
   margin-left: 0px;
   margin-right: 0px;
@@ -639,6 +643,10 @@ video {
   width: 100%;
 }
 
+.w-2\/4 {
+  width: 50%;
+}
+
 .max-w-5xl {
   max-width: 64rem;
 }
@@ -649,6 +657,10 @@ video {
 
 .flex-1 {
   flex: 1 1 0%;
+}
+
+.flex-auto {
+  flex: 1 1 auto;
 }
 
 .list-inside {
@@ -1075,6 +1087,10 @@ video {
 }
 
 @media (min-width: 1024px) {
+  .lg\:w-2\/4 {
+    width: 50%;
+  }
+
   .lg\:text-5xl {
     font-size: 3rem;
     line-height: 1;

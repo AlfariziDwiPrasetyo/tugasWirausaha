@@ -1,3 +1,3 @@
 # Tugas Wirausaha
 
-BLog untuk matkul wirausaha islami
+Blog untuk matkul wirausaha islami
